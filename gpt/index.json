@@ -5,7 +5,7 @@
       "params": {
         "best_of": 1,
         "model": "text-davinci-003",
-        "prompt": "I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with \"Unknown\".\n\nWhat is human life expectancy in the United States?"
+        "prompt": "I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with \"Unknown\".\n\nWhat is human life expectancy in the United States?",
         "max_tokens": 100,
         "temperature": 0,
         "top_p": 1.0,
@@ -19,7 +19,7 @@
       "params": {
         "best_of": 1,
         "model": "text-davinci-003",
-        "prompt": "Correct this to standard English:\n\nShe no went to the market."
+        "prompt": "Correct this to standard English:\n\nShe no went to the market.",
         "max_tokens": 60,
         "temperature": 0,
         "top_p": 1.0,
