@@ -2,7 +2,7 @@
   "examples": [
     {
       "title": "Q&A",
-      "params": {
+      "option": {
         "best_of": 1,
         "model": "text-davinci-003",
         "prompt": "I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with \"Unknown\".\n\nWhat is human life expectancy in the United States?",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Grammar correction",
-      "params": {
+      "option": {
         "best_of": 1,
         "model": "text-davinci-003",
         "prompt": "Correct this to standard English:\n\nShe no went to the market.",
